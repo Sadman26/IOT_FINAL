@@ -12,4 +12,4 @@ void loop()
 {
     float tmp=sensor.readTemperature();
     Serial.print(tmp);
-}
+
