@@ -1,4 +1,4 @@
-#include<DHTStable.h>
+#include<DHTStable.h>//it works
 #define pinx 9;
 #define DHTTYPE DHT22;
 DHTStable sensor(pinx,DHTTYPE);
